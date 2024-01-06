@@ -1,2 +1,2 @@
 # Painter
-Used for drawing
+A painter which aims to allow free drawing and creativity
